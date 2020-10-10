@@ -17,6 +17,11 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 | Ejercicios    |
 |:-------------:|
+|Ejercicio 1|
+|Ejercicio 2|
+|Ejercicio 3|
+|Ejercicio 4|
+|Ejercicio 5|
 |![0%](https://progress-bar.dev/0)|
 
 
@@ -24,12 +29,25 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 | Ejercicios    |
 |:-------------:|
+|Ejercicio 1|
+|Ejercicio 2|
+|Ejercicio 3|
+|Ejercicio 4|
+|Ejercicio 5|
 |![0%](https://progress-bar.dev/0)|
 
 ### Tema 4: Usando contenedores
 
 | Ejercicios    |
 |:-------------:|
+|Ejercicio 1|
+|Ejercicio 2|
+|Ejercicio 3|
+|Ejercicio 4|
+|Ejercicio 5|
+|Ejercicio 6|
+|Ejercicio 7|
+|Ejercicio 8|
 |![0%](https://progress-bar.dev/0)|
 
 
@@ -37,6 +55,9 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 | Ejercicios    |
 |:-------------:|
+|Ejercicio 1|
+|Ejercicio 2|
+|Ejercicio 3|
 |![0%](https://progress-bar.dev/0)|
 
 
@@ -44,6 +65,8 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 | Ejercicios    |
 |:-------------:|
+|Ejercicio 1|
+|Ejercicio 2|
 |![0%](https://progress-bar.dev/0)|
 
 
@@ -51,4 +74,8 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 | Ejercicios    |
 |:-------------:|
+|Ejercicio 1|
+|Ejercicio 2|
+|Ejercicio 3|
+|Ejercicio 4|
 |![0%](https://progress-bar.dev/0)|

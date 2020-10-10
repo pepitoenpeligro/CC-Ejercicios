@@ -24,31 +24,31 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 | Ejercicios    |
 |:-------------:|
-|               |
+|![0%](https://progress-bar.dev/0)|
 
 ### Tema 4: Usando contenedores
 
 | Ejercicios    |
 |:-------------:|
-|               |
+|![0%](https://progress-bar.dev/0)|
 
 
 ### Tema 5: Gestión de configuraciones
 
 | Ejercicios    |
 |:-------------:|
-|               |
+|![0%](https://progress-bar.dev/0)|
 
 
 ### Tema 6: Creación de infraestructuras virtuales reproducibles
 
 | Ejercicios    |
 |:-------------:|
-|               |
+|![0%](https://progress-bar.dev/0)|
 
 
 ### Tema 7: Orquestación de máquinas virtuales
 
 | Ejercicios    |
 |:-------------:|
-|               |
+|![0%](https://progress-bar.dev/0)|

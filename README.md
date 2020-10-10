@@ -6,11 +6,11 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 ### Tema 1: Arquitecturas software para la nube 
 
-| Ejercicios    |
-|:-------------:|
-|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/01.md#ejercicio-1-buscar-una-aplicación-de-ejemplo-preferiblemente-propia-y-deducir-qué-patrón-es-el-que-usa-qué-habr%C3%ADa-que-hacer-para-evolucionar-a-un-patrón-tipo-microservicios)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/01.md#ejercicio-2-en-la-aplicación-que-se-ha-usado-como-ejemplo-en-el-ejercicio-anterior-podr%C3%ADa-usar-diferentes-lenguajes-qué-almacenes-de-datos-ser%C3%ADan-los-más-convenientes)|
-|![100%](https://progress-bar.dev/100)|
+| Ejercicios    | Progreso |
+|:-------------:|:--------:|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/01.md#ejercicio-1-buscar-una-aplicación-de-ejemplo-preferiblemente-propia-y-deducir-qué-patrón-es-el-que-usa-qué-habr%C3%ADa-que-hacer-para-evolucionar-a-un-patrón-tipo-microservicios)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/01.md#ejercicio-2-en-la-aplicación-que-se-ha-usado-como-ejemplo-en-el-ejercicio-anterior-podr%C3%ADa-usar-diferentes-lenguajes-qué-almacenes-de-datos-ser%C3%ADan-los-más-convenientes)|![100%](https://progress-bar.dev/100)|
+| Total |![100%](https://progress-bar.dev/100)|
 
 
 ### Tema 2: Desarrollo basado en pruebas

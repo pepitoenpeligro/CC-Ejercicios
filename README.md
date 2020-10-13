@@ -22,7 +22,7 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-3-descargar-el-repositorio-de-ejemplo-anterior-instalar-las-herramientas-necesarias-principalmente-scala-y-sbt-y-ejecutar-el-ejemplo-desde-sbt-alternativamente-buscar-otros-marcos-para-rest-en-scala-tales-como-finatra-o-scalatra-y-probar-los-ejemplos-que-se-incluyan-en-el-repositorio)|![0%](https://progress-bar.dev/0)|
 |[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-4-para-la-aplicación-que-se-está-haciendo-escribir-una-serie-de-aserciones-y-probar-que-efectivamente-no-fallan-añadir-tests-para-una-nueva-funcionalidad-probar-que-falla-y-escribir-el-código-para-que-no-lo-haga-a-continuación-ejecutarlos-desde-mocha-u-otro-módulo-de-test-de-alto-nivel-usando-descripciones-del-test-y-del-grupo-de-test-de-forma-correcta-si-hasta-ahora-no-has-subido-el-código-que-has-venido-realizando-a-github-es-el-momento-de-hacerlo-porque-lo-vamos-a-necesitar-un-poco-más-adelante)|![0%](https://progress-bar.dev/0)|
 |[Ejercicio 5](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-5-haced-los-dos-primeros-pasos-antes-de-pasar-al-tercero)|![0%](https://progress-bar.dev/0)|
-| Total |![0%](https://progress-bar.dev/0)|
+| Total |![20%](https://progress-bar.dev/20)|
 
 
 ### Tema 3: Microservicios

@@ -1,5 +1,5 @@
 .DS_Store
-.metals/
-.vscode/
+.metals/*
+.vscode/*
 .metals
 .vscode

@@ -33,11 +33,11 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-2-tomar-algún-programa-simple-hola-mundo-impreso-desde-el-intérprete-de-l%C3%ADnea-de-órdenes-y-comparar-el-tamaño-de-las-imágenes-de-diferentes-sistemas-operativos-base-fedora-centos-y-alpine-por-ejemplo)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-3-crear-a-partir-del-contenedor-anterior-una-imagen-persistente-con-commit)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-4-examinar-la-estructura-de-capas-que-se-forma-al-crear-imágenes-nuevas-a-partir-de-contenedores-que-se-hayan-estado-ejecutando)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 5](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-5-crear-un-volumen-y-usarlo-por-ejemplo-para-escribir-la-salida-de-un-programa-determinado)|![0%](https://progress-bar.dev/0)|
+|[Ejercicio 5](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-5-crear-un-volumen-y-usarlo-por-ejemplo-para-escribir-la-salida-de-un-programa-determinado)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 6](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-6-usar-un-miniframework-rest-para-crear-un-servicio-web-y-introducirlo-en-un-contenedor-y-componerlo-con-un-cliente-rest-que-sea-el-que-finalmente-se-ejecuta-y-sirve-como-frontend)|![0%](https://progress-bar.dev/0)|
 |[Ejercicio 7](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-7-reproducir-los-contenedores-creados-anteriormente-usando-un-dockerfile)|![0%](https://progress-bar.dev/0)|
 |[Ejercicio 8](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-8-crear-con-docker-machine-una-máquina-virtual-local-que-permita-desplegar-contenedores-y-ejecutar-en-él-contenedores-creados-con-antelación)|![0%](https://progress-bar.dev/0)|
-| Total |![50%](https://progress-bar.dev/50)|
+| Total |![62.5%](https://progress-bar.dev/62)|
 
 
 ### Tema 4: Microservicios

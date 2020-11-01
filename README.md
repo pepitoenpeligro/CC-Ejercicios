@@ -46,10 +46,10 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |:-------------:|:--------:|
 |[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md#ejercicio-1-realizar-una-aplicación-básica-que-use-express-para-devolver-alguna-estructura-de-datos-del-modelo-que-se-viene-usando-en-el-curso)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md#ejercicio-2-programar-un-microservicio-en-express-o-el-lenguaje-y-marco-elegido-que-incluya-variables-como-en-el-caso-anterior)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md#ejercicio-3-crear-pruebas-para-las-diferentes-rutas-de-la-aplicación)|![0%](https://progress-bar.dev/0)|
+|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md#ejercicio-3-crear-pruebas-para-las-diferentes-rutas-de-la-aplicación)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md#ejercicio-4-experimentar-con-diferentes-gestores-de-procesos-y-servidores-web-front-end-para-un-microservicio-que-se-haya-hecho-con-antelación-por-ejemplo-en-la-sección-anterior)|![0%](https://progress-bar.dev/0)|
 |[Ejercicio 5](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md#ejercicio-5-usar-rake-invoke-o-la-herramienta-equivalente-en-tu-lenguaje-de-programación-para-programar-diferentes-tareas-que-se-puedan-lanzar-fácilmente-desde-la-l%C3%ADnea-de-órdenes)|![0%](https://progress-bar.dev/0)|
-| Total |![40%](https://progress-bar.dev/40)|
+| Total |![60%](https://progress-bar.dev/60)|
 
 ### Tema 5: Gestión de configuraciones
 

@@ -74,8 +74,8 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 | Ejercicios    | Progreso |
 |:-------------:|:--------:|
-|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-1)|![0%](https://progress-bar.dev/0)|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-2)|![0%](https://progress-bar.dev/0)|
 |[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-3)|![0%](https://progress-bar.dev/0)|
 |[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-4)|![0%](https://progress-bar.dev/0)|
-| Total |![0%](https://progress-bar.dev/0)|
+| Total |![25%](https://progress-bar.dev/25)|

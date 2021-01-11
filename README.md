@@ -40,7 +40,16 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 | Total |![100%](https://progress-bar.dev/100)|
 
 
-### Tema 4: Microservicios
+### Tema 4: Integración Continua
+
+| Ejercicios    | Progreso |
+|:-------------:|:--------:|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-5)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-5)|![100%](https://progress-bar.dev/100)|
+| Total |![100%](https://progress-bar.dev/100)|
+
+
+### Tema 5 y 6: REST y Microservicios
 
 | Ejercicios    | Progreso |
 |:-------------:|:--------:|
@@ -52,38 +61,9 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 5](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/04.md#ejercicio-6)|![100%](https://progress-bar.dev/100)|
 | Total |![100%](https://progress-bar.dev/100)|
 
-### Tema 5: Gestión de configuraciones
-
-| Ejercicios    | Progreso |
-|:-------------:|:--------:|
-|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/05.md#ejercicio-1)|![0%](https://progress-bar.dev/0)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/05.md#ejercicio-2)|![0%](https://progress-bar.dev/0)|
-|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/05.md#ejercicio-3)|![0%](https://progress-bar.dev/0)|
-| Total |![0%](https://progress-bar.dev/0)|
 
 
-### Tema 6: Creación de infraestructuras virtuales reproducibles
-
-| Ejercicios    | Progreso |
-|:-------------:|:--------:|
-|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/06.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-2)|![0%](https://progress-bar.dev/0)|
-| Total |![50%](https://progress-bar.dev/50)|
-
-
-### Tema 7: Orquestación de máquinas virtuales
-
-| Ejercicios    | Progreso |
-|:-------------:|:--------:|
-|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-2)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-3)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-4)|![100%](https://progress-bar.dev/100)|
-| Total |![100%](https://progress-bar.dev/100)|
-
-
-
-### Tema X: 
+### Tema 7:  Desplegando aplicaciones en la nube: Uso de PaaS y DBaaS
 
 | Ejercicios    | Progreso |
 |:-------------:|:--------:|
@@ -96,3 +76,36 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 7](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-7)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 8](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-8)|![0%](https://progress-bar.dev/0)|
 | Total |![50%](https://progress-bar.dev/50)|
+
+
+### Ejercicios Adicionales: Gestión de configuraciones
+
+| Ejercicios    | Progreso |
+|:-------------:|:--------:|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/05.md#ejercicio-1)|![0%](https://progress-bar.dev/0)|
+|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/05.md#ejercicio-2)|![0%](https://progress-bar.dev/0)|
+|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/05.md#ejercicio-3)|![0%](https://progress-bar.dev/0)|
+| Total |![0%](https://progress-bar.dev/0)|
+
+
+### Ejercicios Adicionales: Creación de infraestructuras virtuales reproducibles
+
+| Ejercicios    | Progreso |
+|:-------------:|:--------:|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/06.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-2)|![0%](https://progress-bar.dev/0)|
+| Total |![50%](https://progress-bar.dev/50)|
+
+
+### Ejercicios Adicionales: Orquestación de máquinas virtuales
+
+| Ejercicios    | Progreso |
+|:-------------:|:--------:|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-2)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-3)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-4)|![100%](https://progress-bar.dev/100)|
+| Total |![100%](https://progress-bar.dev/100)|
+
+
+

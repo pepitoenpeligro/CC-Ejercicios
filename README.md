@@ -89,10 +89,10 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |:-------------:|:--------:|
 |[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
 |[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-2)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-3)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-4)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-5)|![0%](https://progress-bar.dev/0)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-6)|![0%](https://progress-bar.dev/0)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-7)|![0%](https://progress-bar.dev/0)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-8)|![0%](https://progress-bar.dev/0)|
+|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-3)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-4)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 5](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-5)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 6](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-6)|![0%](https://progress-bar.dev/0)|
+|[Ejercicio 7](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-7)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 8](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-8)|![0%](https://progress-bar.dev/0)|
 | Total |![50%](https://progress-bar.dev/50)|

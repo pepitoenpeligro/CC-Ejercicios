@@ -2,7 +2,12 @@
 
 Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatura 'Cloud Computing' durante el curso 2020 - 2021 que se imparte en el Máster Profesional de Ingeniería Informática de la UGR.
 
+</br>
+
 ## Ejercicios dentro del temario curso 2020-2021
+
+</br>
+
 
 ### Tema 1: Arquitecturas software para la nube 
 
@@ -92,15 +97,7 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 </br>
 </br>
 
-### Ejercicios Adicionales: Orquestación de máquinas virtuales
 
-| Ejercicios    | Progreso |
-|:-------------:|:--------:|
-|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-2)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-3)|![100%](https://progress-bar.dev/100)|
-|[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-4)|![100%](https://progress-bar.dev/100)|
-| Total |![100%](https://progress-bar.dev/100)|
 
 
 </br>
@@ -114,6 +111,16 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 ## Ejercicios no vistos en el temario del curso 2020-2021 
 
 ** Estos ejercicios los he tomado como adicionales, como base para aprender conceptos, y sobre todo herramientas y metodologías devops que considero últiles (y que me haya dado tiempo a completar en este frenético curso*
+
+### Ejercicios Adicionales: Orquestación de máquinas virtuales
+
+| Ejercicios    | Progreso |
+|:-------------:|:--------:|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-2)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-3)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-4)|![100%](https://progress-bar.dev/100)|
+| Total |![100%](https://progress-bar.dev/100)|
 
 ### Ejercicios Adicionales: Creación de infraestructuras virtuales reproducibles
 

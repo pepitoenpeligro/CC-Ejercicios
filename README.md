@@ -110,7 +110,7 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 
 ## Ejercicios no vistos en el temario del curso 2020-2021 
 
-** Estos ejercicios los he tomado como adicionales, como base para aprender conceptos, y sobre todo herramientas y metodologías devops que considero últiles (y que me haya dado tiempo a completar en este frenético curso*
+**Estos ejercicios los he tomado como adicionales, como base para aprender conceptos, y sobre todo herramientas y metodologías devops que considero últiles (y que me haya dado tiempo a completar en este frenético curso**
 
 ### Ejercicios Adicionales: Orquestación de máquinas virtuales
 

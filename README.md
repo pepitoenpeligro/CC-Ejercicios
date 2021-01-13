@@ -2,7 +2,7 @@
 
 Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatura 'Cloud Computing' durante el curso 2020 - 2021 que se imparte en el Máster Profesional de Ingeniería Informática de la UGR.
 
-## Contenido
+## Ejercicios dentro del temario curso 2020-2021
 
 ### Tema 1: Arquitecturas software para la nube 
 
@@ -12,6 +12,9 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/01.md#ejercicio-2)|![100%](https://progress-bar.dev/100)|
 | Total |![100%](https://progress-bar.dev/100)|
 
+
+</br>
+</br>
 
 ### Tema 2: Desarrollo basado en pruebas
 
@@ -24,6 +27,9 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 5](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-5)|![100%](https://progress-bar.dev/100)|
 | Total |![100%](https://progress-bar.dev/100)|
 
+
+</br>
+</br>
 
 ### Tema 3: Usando contenedores
 
@@ -39,6 +45,8 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 8](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md#ejercicio-8)|![100%](https://progress-bar.dev/100)|
 | Total |![100%](https://progress-bar.dev/100)|
 
+</br>
+</br>
 
 ### Tema 4: Integración Continua
 
@@ -48,6 +56,8 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/02.md#ejercicio-5)|![100%](https://progress-bar.dev/100)|
 | Total |![100%](https://progress-bar.dev/100)|
 
+</br>
+</br>
 
 ### Tema 5 y 6: REST y Microservicios
 
@@ -62,6 +72,8 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 | Total |![100%](https://progress-bar.dev/100)|
 
 
+</br>
+</br>
 
 ### Tema 7:  Desplegando aplicaciones en la nube: Uso de PaaS y DBaaS
 
@@ -77,7 +89,8 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 8](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/08.md#ejercicio-8)|![100%](https://progress-bar.dev/100)|
 | Total |![100%](https://progress-bar.dev/100)|
 
-
+</br>
+</br>
 
 ### Ejercicios Adicionales: Orquestación de máquinas virtuales
 
@@ -89,6 +102,18 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 |[Ejercicio 4](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/07.md#ejercicio-4)|![100%](https://progress-bar.dev/100)|
 | Total |![100%](https://progress-bar.dev/100)|
 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+## Ejercicios no vistos en el temario del curso 2020-2021 
+
+** Estos ejercicios los he tomado como adicionales, como base para aprender conceptos, y sobre todo herramientas y metodologías devops que considero últiles (y que me haya dado tiempo a completar en este frenético curso*
 
 ### Ejercicios Adicionales: Creación de infraestructuras virtuales reproducibles
 

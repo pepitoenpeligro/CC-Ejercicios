@@ -77,10 +77,24 @@ Repositorio en el que almaceno los ejercicios de autoevaluación de la asignatur
 | Total |![100%](https://progress-bar.dev/100)|
 
 
+
 </br>
 </br>
 
-### Tema 7:  Desplegando aplicaciones en la nube: Uso de PaaS y DBaaS
+### Tema 7: Composición de contenedores
+
+| Ejercicios    | Progreso |
+|:-------------:|:--------:|
+|[Ejercicio 1](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/09.md#ejercicio-1)|![100%](https://progress-bar.dev/100)|
+|[Ejercicio 2](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/09.md#ejercicio-2)|![100%](https://progress-bar.dev/100)|
+| Total |![100%](https://progress-bar.dev/100)|
+
+
+
+</br>
+</br>
+
+### Tema 8: Desplegando aplicaciones en la nube: Uso de PaaS y DBaaS
 
 | Ejercicios    | Progreso |
 |:-------------:|:--------:|
